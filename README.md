@@ -11,5 +11,8 @@ This is the "new feature" branch
 
 This is another "new Feature"
 
+git pull
+
+remote: 
 
 Commit!!
